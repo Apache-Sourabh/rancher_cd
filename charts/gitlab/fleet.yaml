@@ -1,5 +1,0 @@
-defaultNamespace: default
-helm:
-  chart: ./
-  #repo: https://github.com/Apache-Sourabh/rancher_cd.git
-  releaseName: gitlab
