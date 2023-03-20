@@ -1,0 +1,4 @@
+defaultNamespace: default
+helm:
+  chartL ./
+  releaseName: gitlab
