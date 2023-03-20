@@ -1,4 +1,4 @@
 defaultNamespace: default
 helm:
-  chartL ./
+  chart: ./
   releaseName: gitlab
