@@ -1,0 +1,6 @@
+namespace: default
+
+helm:
+  repo: https://charts.gitlab.io
+  chart: gitlab
+  releaseName: gitlab
